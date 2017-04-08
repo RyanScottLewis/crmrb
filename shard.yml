@@ -1,0 +1,13 @@
+name: crmrb
+version: 0.1.0
+
+authors:
+  - Ryan Scott Lewis <ryanscottlewis@gmail.com>
+
+targets:
+  crmrb:
+    main: src/crmrb.cr
+
+crystal: 0.21.1
+
+license: MIT
