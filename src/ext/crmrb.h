@@ -6,6 +6,6 @@
 #include <mruby/compile.h>
 // #include <mruby/variable.h>
 
-extern void execute(char *code);
+extern void crmrb_execute(char *code);
 
 #endif // crmrb_h__
