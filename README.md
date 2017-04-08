@@ -10,6 +10,7 @@ $ cd crmrb
 $ rake build
 $ ./build/exe/crmrb ./examples/hello.rb
 Hello from MRuby in Crystal
+Hello from MRuby defined class & instance method
 ```
 
 ## Contributing
